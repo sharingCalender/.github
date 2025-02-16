@@ -13,10 +13,16 @@
 
 # 현재까지 구현된 사이트
 - 로그인 화면
+
+  
   ![Image](https://github.com/user-attachments/assets/211c9131-fbf0-49de-80e8-a8a9f8439454)
 - 초대 메시지
+
+  
   ![Image](https://github.com/user-attachments/assets/081136f4-3985-4aed-ad38-803800ccc443)
 - 일정
+
+  
   ![Image](https://github.com/user-attachments/assets/cc929f80-2824-4908-a3fb-a335e9bb55c9)
 <!--
 
