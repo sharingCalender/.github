@@ -20,10 +20,6 @@
 
   
   ![Image](https://github.com/user-attachments/assets/211c9131-fbf0-49de-80e8-a8a9f8439454)
-- 초대 메시지
-
-  
-  ![Image](https://github.com/user-attachments/assets/081136f4-3985-4aed-ad38-803800ccc443)
 - 그룹별 일정공유
 
   
